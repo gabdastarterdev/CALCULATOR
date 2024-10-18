@@ -2,7 +2,7 @@
 # I wanted to see if i learned anything.
 # So i decided to make a calculator program.
 
-# Made: Gabrielly Nicholai Tiongson!
+# Made by: Gab!
 # 10/18/2024
 
 import math
